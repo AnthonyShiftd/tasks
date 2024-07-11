@@ -2,6 +2,7 @@
 const a = 9
 console.log(Math.ceil(a/2))
 Math.ceil(a/2)>(a/2)?console.log('Нечетное'):console.log('Четное') //Не четное
+console.log(a)
 
 
 //Проверка первых букв строк на совпадение
